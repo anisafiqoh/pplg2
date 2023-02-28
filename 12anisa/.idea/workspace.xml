@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2960ede3-0073-4092-ae45-f64af686adf3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/java/com/example/a17nisa/Fragment_busana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/java/com/example/a17nisa/Fragment_kuliner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/java/com/example/a17nisa/Fragment_pplg.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/java/com/example/a17nisa/Fragment_to.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/java/com/example/a17nisa/Fragment_tpfl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/res/layout/fragment_busana.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/res/layout/fragment_kuliner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/res/layout/fragment_pplg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/res/layout/fragment_to.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17nisa/app/src/main/res/layout/fragment_tpfl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEVAJOB11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEVAJOB11/app/src/main/java/com/example/devajob11/MainActivity2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DEVAJOB11/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob12/app/src/main/java/com/example/devajob12/activity_second.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob12/app/src/main/java/com/example/devajob12/activity_third.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob12/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob12/app/src/main/res/layout/activity_third.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/java/com/example/devajob17/Fragment_busana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/java/com/example/devajob17/Fragment_kuliner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/java/com/example/devajob17/Fragment_pplg.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/java/com/example/devajob17/Fragment_to.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/java/com/example/devajob17/Fragment_tpfl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/res/layout/fragment_busana.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/res/layout/fragment_kuliner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/res/layout/fragment_pplg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/res/layout/fragment_to.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DevaJob17/app/src/main/res/layout/fragment_tpfl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUDEVABUDIYANA/app/src/main/java/com/example/profilgurudevabudiyana/MainActivity2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUDEVABUDIYANA/app/src/main/java/com/example/profilgurudevabudiyana/MainActivity3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUDEVABUDIYANA/app/src/main/res/drawable-v24/Photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUDEVABUDIYANA/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUDEVABUDIYANA/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/java/com/example/profilgurujihansalwa/MainActivity2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/java/com/example/profilgurujihansalwa/MainActivity3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/drawable-v24/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/drawable/beckground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/drawable/beige.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/drawable/bengkel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/drawable/bunga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/drawable/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/drawable/guru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/drawable/kui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PROFILGURUJIHANSALWA/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/res/drawable/foto5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/res/drawable/foto6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/res/drawable/foto7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/java/com/example/profilgurujihansalwa/MainActivity2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/java/com/example/profilgurujihansalwa/MainActivity3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/res/drawable/beige.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/res/drawable/bunga.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/res/drawable/foto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/res/drawable/guru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/res/drawable/kui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProfilGuruJihanSalwa2/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/java/com/example/jihansalwajobsheet14/Fragment_busana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/java/com/example/jihansalwajobsheet14/Fragment_kuliner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/java/com/example/jihansalwajobsheet14/Fragment_otomotif.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/java/com/example/jihansalwajobsheet14/Fragment_pengelasan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/java/com/example/jihansalwajobsheet14/Fragment_pplg.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/res/layout/fragment_busana.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/res/layout/fragment_kuliner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/res/layout/fragment_otomotif.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/res/layout/fragment_pengelasan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jihansalwajobsheet14/app/src/main/res/layout/fragment_pplg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job14/app/src/main/java/com/example/job14/RedFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../job14/app/src/main/res/layout/fragment_red.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nisa19/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/androidTest/java/com/example/punyaku/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/java/com/example/punyaku/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/java/com/example/punyaku/busanaFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/java/com/example/punyaku/kulinerFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/java/com/example/punyaku/pplgFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/java/com/example/punyaku/toFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/java/com/example/punyaku/tpflFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/layout/fragment_busana.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/layout/fragment_kuliner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/layout/fragment_pplg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/layout/fragment_to.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/layout/fragment_tpfl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/layout/layout_header_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/menu/menu_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/app/src/test/java/com/example/punyaku/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../punyaku/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syaaa/app/src/main/java/com/example/syaaa/MainActivity2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syaaa/app/src/main/java/com/example/syaaa/Session.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../syaaa/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wawaaa/app/src/main/java/com/example/wawaaa/TPFLFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wawaaa/app/src/main/res/layout/fragment_t_p_f_l.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adinda" beforeDir="false" afterPath="$PROJECT_DIR$/../Adinda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FrameLayout" beforeDir="false" afterPath="$PROJECT_DIR$/../FrameLayout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Job12Deva" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JobSheet10" beforeDir="false" afterPath="$PROJECT_DIR$/../JobSheet10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JobSheet11" beforeDir="false" afterPath="$PROJECT_DIR$/../JobSheet11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KHAMILAJHOB12" beforeDir="false" afterPath="$PROJECT_DIR$/../KHAMILAJHOB12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nasywa14/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Nasywa14/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nasywa6" beforeDir="false" afterPath="$PROJECT_DIR$/../Nasywa6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NasywaSH2" beforeDir="false" afterPath="$PROJECT_DIR$/../NasywaSH2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nasywashh" beforeDir="false" afterPath="$PROJECT_DIR$/../Nasywashh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PROFILGURUANISA2" beforeDir="false" afterPath="$PROJECT_DIR$/../PROFILGURUANISA2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfilGuruDeva/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfilGuruDeva/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfilGuruDeva/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfilGuruDeva/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/java/com/example/profilgurudeva/MainActivity2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/java/com/example/profilgurudeva/MainActivity2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/res/layout/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProfilGuruDeva/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisajobs13" beforeDir="false" afterPath="$PROJECT_DIR$/../anisajobs13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisajobs6" beforeDir="false" afterPath="$PROJECT_DIR$/../anisajobs6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisajoobsheet11" beforeDir="false" afterPath="$PROJECT_DIR$/../anisajoobsheet11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/androidTest/java/com/example/anisaturrofiqoh/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/java/com/example/anisaturrofiqoh/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/app/src/test/java/com/example/anisaturrofiqoh/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../anisaturrofiqoh/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifit11" beforeDir="false" afterPath="$PROJECT_DIR$/../fifit11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/androidTest/java/com/example/job12anisa/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/java/com/example/job12anisa/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/java/com/example/job12anisa/MainActivity2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/java/com/example/job12anisa/MainActivity3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/layout/activity_main3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/app/src/test/java/com/example/job12anisa/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job12anisa/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job13deva/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../job13deva/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khamila13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../khamila13/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../khamilaaaa" beforeDir="false" afterPath="$PROJECT_DIR$/../khamilaaaa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nasywa12" beforeDir="false" afterPath="$PROJECT_DIR$/../nasywa12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../novijob6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../novijob6/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R9RN7049J8L]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GbnoRM0BFJeBLvJ8JP9iiopqHU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.752123762">
+      <recent name="com.example.a12anisa" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="12anisa.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2960ede3-0073-4092-ae45-f64af686adf3" name="Default Changelist" comment="" />
+      <created>1666666325658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666666325658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
